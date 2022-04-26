@@ -1,0 +1,24 @@
+.game-container {
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    background: url("../img/strasse_20.jpg");
+    background-size: cover;
+}
+.score {
+    position: absolute;
+    left: 57%;
+    top: 2%;
+    border: white solid 2px;
+    padding: 2px 6px;
+    color: white;
+}
+.speed {
+    position: absolute;
+    left: 56%;
+    top: 6%;
+    border: white solid 2px;
+    padding: 2px 6px;
+    color: white;
+}
+.player {}
