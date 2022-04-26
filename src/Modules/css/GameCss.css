@@ -21,4 +21,14 @@
     padding: 2px 6px;
     color: white;
 }
-.player {}
+.player {
+    position: absolute;
+    bottom: 40%;
+}
+.player img{
+    width: 50px;
+}
+
+.game-container input {
+    opacity: 0;
+}
